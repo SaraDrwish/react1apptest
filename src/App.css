@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(189, 219, 209);
+  color: rgb(67, 116, 99);
+}
+
+
+.bigBox{
+   background-color: azure;
+   border-radius: 51px; 
+   -webkit-border-radius: 51px;
+    -moz-border-radius: 51px;
+     -ms-border-radius: 51px;
+      -o-border-radius: 51px;
+}
+
+.data1box{
+  display: flex;
+  justify-content: space-evenly;
+}
